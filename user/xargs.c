@@ -3,13 +3,6 @@
 #include "../kernel/param.h"
 #include "user.h"
 
-/*
- *int main(int argc, char *argv[]) {
- *    char *exec = argv[1];
- *    exit(0);
- *}
- */
-
 #define MAX 1024
 int main(int argc, char *argv[])
 {
